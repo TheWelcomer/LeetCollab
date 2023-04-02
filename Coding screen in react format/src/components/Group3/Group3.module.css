@@ -1,0 +1,122 @@
+.rectangle7 {
+  width: 1736px;
+  height: 1074px;
+  background-color: #003d3d;
+}
+.rectangle9 {
+  width: 148px;
+  height: 122px;
+  background-color: #d9d9d9;
+}
+.rectangle10 {
+  width: 148px;
+  height: 122px;
+  background-color: #d9d9d9;
+}
+.rectangle11 {
+  width: 148px;
+  height: 122px;
+  background-color: #d9d9d9;
+}
+.undoRedo {
+  color: #535353;
+  font-size: 64px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line2 {
+  width: 1074px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.questionGoesHere {
+  color: #fff;
+  font-size: 64px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  width: 452px;
+  height: 192px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.programAnswerGoesHere {
+  color: #fff;
+  font-size: 64px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  width: 435px;
+  height: 166px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle8 {
+  width: 868px;
+  height: 417px;
+  background-color: #d9d9d9;
+}
+.chatGoesHere {
+  color: #535353;
+  font-size: 64px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  width: 412px;
+  height: 101px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.line3 {
+  width: 122px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #003d3d;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.checkAnswer {
+  width: 110px;
+  height: 74px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #535353;
+  font-size: 32px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #535353;
+  font-size: 32px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+}
+.line4 {
+  width: 868px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+}

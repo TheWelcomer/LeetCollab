@@ -1,0 +1,17 @@
+.rectangle12 {
+  width: 1736px;
+  height: 1074px;
+  background-color: #003d3d;
+}
+.thatsIt {
+  color: #fff;
+  font-size: 220px;
+  font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  width: 1066px;
+  height: 204px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
