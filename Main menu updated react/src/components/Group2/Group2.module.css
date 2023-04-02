@@ -70,7 +70,7 @@
     'Liberation Sans', sans-serif;
   letter-spacing: 0.045em;
 }
-.codeBreakers {
+.leetCollab {
   color: #000;
   font-size: 17px;
   font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
@@ -82,7 +82,7 @@
   align-items: center;
   flex-direction: column;
 }
-._2Player {
+.multiplayer {
   color: #000;
   font-size: 17px;
   font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
@@ -94,7 +94,7 @@
   align-items: center;
   flex-direction: column;
 }
-._1Player {
+.acheivements {
   color: #000;
   font-size: 17px;
   font-family: Rationale, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',

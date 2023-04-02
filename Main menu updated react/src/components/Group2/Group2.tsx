@@ -33,9 +33,9 @@ export const Group2: FC<Props> = memo(function Group2(props = {}) {
           <p></p>
         </div>
       </div>
-      <div className={classes.codeBreakers}>CodeBreakers</div>
-      <div className={classes._2Player}>2 Player </div>
-      <div className={classes._1Player}>1 Player </div>
+      <div className={classes.leetCollab}>LeetCollab</div>
+      <div className={classes.multiplayer}>Multiplayer</div>
+      <div className={classes.acheivements}>Acheivements</div>
     </>
   );
 });
