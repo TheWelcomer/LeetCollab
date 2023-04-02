@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v9_17 {
+  width: 732px;
+  height: 732px;
+  background: url("../images/v9_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v9_16 {
+  width: 732px;
+  height: 732px;
+  background: url("../images/v9_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_8 {
+  width: 732px;
+  height: 732px;
+  background: rgba(0,164,175,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_2 {
+  width: 442px;
+  height: 447px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 142px;
+  left: 145px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+
+.button_2 {
+    width: 405px;
+    height: 93px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 344px;
+    left: 164px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Rationale;
+    cursor: pointer;
+}
+.button_3 {
+    width: 405px;
+    height: 93px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 470px;
+    left: 164px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Rationale;
+    cursor: pointer;
+}
+.button_1 {
+    width: 405px;
+    height: 93px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 218px;
+    left: 164px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Rationale;
+    cursor: pointer;
+}
+
+.v2_2 {
+  width: 182px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 155px;
+  left: 255px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
