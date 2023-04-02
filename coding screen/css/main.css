@@ -1,0 +1,138 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v18_13 {
+  width: 100%;
+  height: 1074px;
+  background: url("../images/v18_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_9 {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,60,60,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v17_7 {
+  width: 148px;
+  height: 122px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 918px;
+  left: 941px;
+  overflow: hidden;
+}
+.v17_8 {
+  width: 148px;
+  height: 122px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 918px;
+  left: 1089px;
+  overflow: hidden;
+}
+.v17_10 {
+  width: 148px;
+  height: 122px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 918px;
+  left: 1502px;
+  overflow: hidden;
+}
+.v17_6 {
+  width: 258px;
+  color: rgba(82,82,82,1);
+  position: absolute;
+  top: 942px;
+  left: 953px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v4_12 {
+  width: 452px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 21px;
+  left: 181px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_13 {
+  width: 435px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 21px;
+  left: 1103px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_14 {
+  width: 868px;
+  height: 417px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 657px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_15 {
+  width: 412px;
+  color: rgba(82,82,82,1);
+  position: absolute;
+  top: 777px;
+  left: 201px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v17_11 {
+  width: 110px;
+  color: rgba(82,82,82,1);
+  position: absolute;
+  top: 942px;
+  left: 1521px;
+  font-family: Rationale;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
